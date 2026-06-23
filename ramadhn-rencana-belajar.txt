@@ -7,4 +7,3 @@ RENCANA BELAJAR RAMADHN
 - belajar GITHUB
 - menyelesaikan masalah GIT CONFLICT
 - memahami VCS
-- selesaikan mission 2
