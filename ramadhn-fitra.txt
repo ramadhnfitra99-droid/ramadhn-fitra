@@ -1,5 +1,6 @@
 RAMDHN FITRA
 - konsisten belajar coding
-- menguasai full stack web developer
 - menguasai HTML
 - menguasai CSS
+- menguasai full stack web developer
+- sampai bisa
