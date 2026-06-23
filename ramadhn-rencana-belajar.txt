@@ -1,6 +1,8 @@
 RENCANA BELAJAR RAMADHN
 
 - belajar GIT
+  * apa itu GIT
+  * penggunaan GIT
 - belajar GITHUB
 - menyelesaikan masalah GIT CONFLICT
 - memahami VCS
