@@ -1,0 +1,5 @@
+RENCANA BELAJAR RAMADHN
+
+- belajar GIT
+- belajar GITHUB
+- menyelesaikan masalah GIT CONFLICT
